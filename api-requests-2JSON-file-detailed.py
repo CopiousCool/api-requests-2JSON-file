@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Jan 13 16:45:23 2023
-
-@author: marco.herry
-"""
 
 import json #importing json library to use json functionalities
 from flask import Flask, request, jsonify #importing flask, request, jsonify to create api, handle request and jsonify the response
